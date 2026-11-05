@@ -1,0 +1,45 @@
+n1 = 4, n2 = 20
+20
+soma=n1+n2
+24
+subt=n2-n1
+16
+mult=n2*n1
+80
+nota1=7, nota2=8, nota3=9 
+9
+media = (nota1 + nota2 +nota3)/3
+8
+nome
+'Vinicius'
+idade
+18
+console.log("Olá, Mundo!")
+VM1928:1 Olá, Mundo!
+undefined
+console.log(10+5)
+VM1997:1 15
+undefined
+console.log("Meu nome é Vinicius Dalamura.")
+VM2145:1 Meu nome é Vinicius Dalamura.
+undefined
+console.log (typeof "ADS")
+VM2257:1 string
+undefined
+console.log (typeof 12)
+VM2357:1 number
+undefined
+desc = 200.00 * 90/100
+180
+resto = 10 % 3
+1
+let saldo = 500
+undefined
+saldo + 150
+650
+saldo -80
+420
+saldo +150 - 80
+570
+idade > 17
+true
